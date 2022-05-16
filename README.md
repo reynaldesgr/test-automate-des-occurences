@@ -1,1 +1,1 @@
-# ``Test: Automate des occurences``
+# ``Test: Automate des occurrences``
